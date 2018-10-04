@@ -1,0 +1,3 @@
+# equlibrium.py
+
+for codechef
